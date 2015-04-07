@@ -1,0 +1,232 @@
+K, Connected to WiFi.
+Temperature: 25 C       Voltage: 3.07 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.01 V       CO2: 400 ppm
+Temperature: 26 C       Voltage: 2.97 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 2.81 V       CO2: 524 ppm
+Temperature: 26 C       Voltage: 2.88 V       CO2: 435 ppm
+Temperature: 26 C       Voltage: 2.91 V       CO2: 406 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=26&co2=406
+OK
+Temperature: 25 C       Voltage: 3.01 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 2.98 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 2.99 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.01 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 2.99 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.00 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+OK
+Temperature: 27 C       Voltage: 2.99 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 2.99 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 2.99 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.02 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.00 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+OK
+Temperature: 25 C       Voltage: 3.00 V       CO2: 400 ppm
+Temperature: 26 C       Voltage: 3.00 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.02 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.03 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.00 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.01 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+OK
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.03 V       CO2: 400 ppm
+Temperature: 26 C       Voltage: 3.02 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.02 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.06 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+OK
+Temperature: 25 C       Voltage: 3.01 V       CO2: 400 ppm
+Temperature: 26 C       Voltage: 3.03 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.02 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.06 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+OK
+Temperature: 25 C       Voltage: 3.05 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.03 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.03 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+Temperature: 26 C       Voltage: 3.07 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+OK
+Temperature: 25 C       Voltage: 3.06 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.09 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.06 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.04 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.09 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=25&co2=400
+connect timeout
+Temperature: 25 C       Voltage: 3.28 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.31 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.36 V       CO2: 400 ppm
+Temperature: 25 C       Voltage: 3.37 V       CO2: 400 ppm
+Temperature: 24 C       Voltage: 3.37 V       CO2: 400 ppm
+Temperature: 24 C       Voltage: 3.38 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=24&co2=400
+connect timeout
+Temperature: 24 C       Voltage: 3.38 V       CO2: 400 ppm
+Temperature: 24 C       Voltage: 3.39 V       CO2: 400 ppm
+Temperature: 24 C       Voltage: 3.40 V       CO2: 400 ppm
+Temperature: 23 C       Voltage: 3.41 V       CO2: 400 ppm
+Temperature: 23 C       Voltage: 3.41 V       CO2: 400 ppm
+Temperature: 23 C       Voltage: 3.52 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=23&co2=400
+connect timeout
+Temperature: 23 C       Voltage: 3.80 V       CO2: 400 ppm
+Temperature: 22 C       Voltage: 3.76 V       CO2: 400 ppm
+Temperature: 21 C       Voltage: 3.78 V       CO2: 400 ppm
+Temperature: 20 C       Voltage: 3.79 V       CO2: 400 ppm
+Temperature: 20 C       Voltage: 3.80 V       CO2: 400 ppm
+Temperature: 18 C       Voltage: 3.84 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=18&co2=400
+connect timeout
+Temperature: 18 C       Voltage: 3.85 V       CO2: 400 ppm
+Temperature: 17 C       Voltage: 3.82 V       CO2: 400 ppm
+Temperature: 16 C       Voltage: 3.85 V       CO2: 400 ppm
+Temperature: 16 C       Voltage: 3.85 V       CO2: 400 ppm
+Temperature: 16 C       Voltage: 3.83 V       CO2: 400 ppm
+Temperature: 15 C       Voltage: 3.83 V       CO2: 400 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=15&co2=400
+connect timeout
+Temperature: 15 C       Voltage: 3.96 V       CO2: 400 ppm
+Temperature: 14 C       Voltage: 3.84 V       CO2: 400 ppm
+Temperature: 14 C       Voltage: 3.89 V       CO2: 400 ppm
+Temperature: 13 C       Voltage: 4.01 V       CO2: 400 ppm
+Temperature: 13 C       Voltage: 3.20 V       CO2: 400 ppm
+Temperature: 21 C       Voltage: 2.65 V       CO2: 807 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 40
+
+device_id=Arduino&temperature=21&co2=807
+connect timeout
+Temperature: 21 C       Voltage: 2.22 V       CO2: 2492 ppm
+Temperature: 21 C       Voltage: 2.35 V       CO2: 1771 ppm
+Temperature: 21 C       Voltage: 2.27 V       CO2: 2158 ppm
+Temperature: 23 C       Voltage: 2.12 V       CO2: 3205 ppm
+Temperature: 22 C       Voltage: 2.18 V       CO2: 2776 ppm
+Temperature: 22 C       Voltage: 1.95 V       CO2: 5063 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 41
+
+device_id=Arduino&temperature=22&co2=5063
+connect timeout
+Temperature: 22 C       Voltage: 1.96 V       CO2: 4998 ppm
+Temperature: 15 C       Voltage: 2.03 V       CO2: 4112 ppm
+Temperature: 23 C       Voltage: 1.99 V       CO2: 4522 ppm
+Temperature: 23 C       Voltage: 1.88 V       CO2: 6091 ppm
+Temperature: 23 C       Voltage: 1.99 V       CO2: 4545 ppm
+Temperature: 22 C       Voltage: 1.85 V       CO2: 6562 ppm
+POST http://54.93.100.129/addData HTTP/1.0
+Host: 54.93.100.129
+User-Agent: Arduino/1.0
+Connection: close
+Content-Type: application/x-www-form-urlencoded;
+Content-Length: 41
+
+device_id=Arduino&temperature=22&co2=6562
+connect timeout
+Temperature: 23 C       Voltage: 1.82 V       CO2: 7087 ppm
+Temperature: 22 C       Voltage: 1.76 V       CO2: 8311 ppm
+Temperature: 22 C       Voltage: 1.94 V       CO2: 5208 ppm
+Temperature: 24 C       Voltage: 1.93 V       CO2: 5371 ppm
+Temperature: 24 C       Voltage: 1.77 V       CO2: 8121 ppm
+Temperature: 24 C       Voltage: 1.71 V       CO2: 9401 ppm
